@@ -1,0 +1,25 @@
+{
+  "name": "ecomwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeanmmPD/Projeto-E-Commerce-Clothing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeanmmPD/Projeto-E-Commerce-Clothing/issues"
+  },
+  "homepage": "https://github.com/DeanmmPD/Projeto-E-Commerce-Clothing#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express.js": "^1.0.0",
+    "firebase-admin": "^10.2.0",
+    "nodemon": "^2.0.16"
+  }
+}
